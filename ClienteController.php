@@ -1,3 +1,4 @@
+/*Prueba clase */
 <?php
 
 namespace App\Http\Controllers;
