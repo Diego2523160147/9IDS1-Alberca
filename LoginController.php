@@ -1,5 +1,5 @@
 <?php
-
+//Aviso de Privacidad
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
