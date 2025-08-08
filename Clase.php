@@ -17,5 +17,6 @@ class Clase extends Model
         'hora_final',
         'cupo_maximo'
     ];
+    
 
 }
